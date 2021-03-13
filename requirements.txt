@@ -6,7 +6,7 @@ Pillow == 5.4.1
 
 # C:\Users\dfial\Documents\0_Iris New Version2\0_Iris New Version2\.ipynb_checkpoints\Iris_Denombrement_bacterien_V3_Fialaire_David_2021-checkpoint.ipynb: 28,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67,68
 # C:\Users\dfial\Documents\0_Iris New Version2\0_Iris New Version2\Iris_Denombrement_bacterien_V3_Fialaire_David_2021.ipynb: 28,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,49,50,51,52,53,54,55,56,57,58,59,61,62,63,64,65,66,67,68
-PyQt5_sip == 12.8.0
+PyQt5 == 5.15.0
 
 # C:\Users\dfial\Documents\0_Iris New Version2\0_Iris New Version2\.ipynb_checkpoints\Iris_Denombrement_bacterien_V3_Fialaire_David_2021-checkpoint.ipynb: 25
 # C:\Users\dfial\Documents\0_Iris New Version2\0_Iris New Version2\Iris_Denombrement_bacterien_V3_Fialaire_David_2021.ipynb: 25
